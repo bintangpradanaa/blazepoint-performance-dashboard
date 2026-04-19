@@ -1,8 +1,8 @@
 # BlazePoint Performance Dashboard
 
 ## Resource
-- 📈 [Dashboard:](https://datastudio.google.com/reporting/28062b7e-d792-4e1d-b003-122087f238cf)
-- 🔗 [Requirement Document:](https://docs.google.com/document/d/1KHDBKw_aHGa4dryHwbOGzNzwuFL8btT3FATfzd8PqZc)
+- 📈 [Dashboard](https://datastudio.google.com/reporting/28062b7e-d792-4e1d-b003-122087f238cf)
+- 🔗 [Requirement Document](https://docs.google.com/document/d/1KHDBKw_aHGa4dryHwbOGzNzwuFL8btT3FATfzd8PqZc)
 
 ## Project Overview
 BlazePoint is a commercial company that requires performance monitoring system to evaluate its business operations across sales, profit, customer behavior, and fulfillment performance.
