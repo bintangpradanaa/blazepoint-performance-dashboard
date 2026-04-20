@@ -1,6 +1,13 @@
 # BlazePoint Performance Dashboard
+This project is designed to enhance my Looker Studio capabilities by exploring commerce data through interactive dashboard development.
+
+## Preview
+<p align="center">
+  <img src="images/demo-blazepoint.gif" alt="Project Banner" width="1000"/>
+</p>
 
 ## Resource
+You can explore the results and project details through the following links:
 - 📈 [Dashboard](https://datastudio.google.com/reporting/28062b7e-d792-4e1d-b003-122087f238cf)
 - 🔗 [Requirement Document](https://docs.google.com/document/d/1KHDBKw_aHGa4dryHwbOGzNzwuFL8btT3FATfzd8PqZc)
 
