@@ -8,7 +8,7 @@ This project is designed to enhance my Looker Studio capabilities by exploring c
 
 ## Resource
 You can explore the results and project details through the following links:
-- 📈 [Dashboard](https://datastudio.google.com/reporting/28062b7e-d792-4e1d-b003-122087f238cf)
+- 📈 [Dashboard Looker Studio](https://datastudio.google.com/reporting/28062b7e-d792-4e1d-b003-122087f238cf)
 - 🔗 [Requirement Document](https://docs.google.com/document/d/1KHDBKw_aHGa4dryHwbOGzNzwuFL8btT3FATfzd8PqZc)
 
 ## Project Overview
@@ -36,7 +36,3 @@ As a **BI Analyst**, I was responsible for designing and developing an interacti
 - Category & Sub-category Performance
 - Product Performance
 - Delivery Performance (On-time rate, delay analysis)
-
-## Output
-- Business performance monitoring system with **Looker Studio Dashboard**
-- KPI tracking for commercial decision-making
